@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	background-color: whitesmoke;
+}
+.fixed-header{
+	border-bottom: 0.5px solid rgb(226, 223, 223);
+	width: 100%;
+	padding-left:10px ;
+	padding-right: 10px;
+	position:fixed;
+	background-color: white;
+}
+.header-links{
+	float:right;
+	padding-right:10px;
+}
+.h-l{
+    text-decoration: none; 
+	padding: 20px;
+	font-size: 20px;
+	color: blue;
+}
+.empty{
+	height: 100px;
+}
+.ser-img{
+	text-align: center;
+	width: 800px;
+	height:250px;
+	background-color:aqua;
+	border-radius: 10px;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.text{
+	width:400px;
+	height:250px;
+	float:right;
+	background-color: bisque;
+}
+.side-img{
+	width:400px;
+	height:250px;
+	margin-top: auto;
+	margin-bottom: auto;
+
+}
+form{
+	font-family: sans-serif;	
+}
+.address,.guests,.date{
+	width:300px;
+}
+.box-radio{
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.crt-headings{
+	font-weight: normal;
+	text-align: center;
+}
+.crt-evnt{        
+	width:800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 70px;
+}
+input{
+	padding: 5px;
+	margin-top:5px;
+	margin-bottom:15px;
+
+}
+.book{
+	margin-left: auto;
+	margin-right: auto;
+	float:right;
+	padding:10px;
+}
+.err {
+	background: #F2DEDE;
+	color: #A94442;
+	padding: 10px;
+	width: 95%;
+	border-radius: 5px;
+	margin: 20px auto;
+ }
